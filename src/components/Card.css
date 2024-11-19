@@ -1,0 +1,17 @@
+.cardContainer {
+    border: 1px solid;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.cardImage {
+    width: 100%;
+    height: 300px;
+    border-radius: 0.5rem;
+}
+
+.cardHeading {
+    font-size: 26px;
+
+
+}
